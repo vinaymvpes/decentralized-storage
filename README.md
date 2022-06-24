@@ -6,5 +6,13 @@ so to make this to work
 3.extension compatible browser
 4.rinkeby testnet with faucet
 
+technology stack used:-
+ethereum.org
+truffle suit
+node.js
+web3.js
+react.js
+IPFS
+
 from ganache create a public blockhain network and import the private key to metamask.
-thanks @credits miquel/mtc DStorage
+thanks @credits miquelTC
